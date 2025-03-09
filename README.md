@@ -1,4 +1,4 @@
-# AI-Powered Medical Image Analysis & Report Generation
+# NeuroGPT: AI-Powered MRI Insights & Reporting 🤖💡
 
 ## 🏥 Revolutionizing Medical Imaging with Generative AI & Deep Learning
 
