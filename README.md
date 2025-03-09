@@ -65,13 +65,36 @@ This repository presents an **AI-driven system** that combines **Deep Learning**
      - Generates a **structured medical report** based on predefined templates.  
    - **Step 6:** The final **PDF report is generated and saved**.
 
+
+
+<h2 align="center">Program Output Screenshots</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="output2.png" alt="User Interface" width="450"/>
+      <br/><b>Figure 1:</b> User Interface for Data Entry and MRI Scan Specification
+    </td>
+    <td align="center">
+       <img src="output1.png" alt="Segmentation Output" width="450"/>
+       <br/><b>Figure 2:</b> Segmentation Output of the model (slice adjustable in code)
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## 📄 Generated Report
 
 An example of AI-generated medical report can be accessed at the following link:
 
+
 🔗 **[View AI-Generated Report](https://atchudhansg.github.io/AI-Assisted-Multiple-Sclerosis-Lesion-Detection-and-Report-Generation/)**
 
+
 For hosting purposes, the report file has been renamed to **index.html**.
+
 
 
 🚀 **Advantages of This Approach**:  
@@ -85,14 +108,14 @@ For hosting purposes, the report file has been renamed to **index.html**.
 
 ### 🔧 **Setup & Installation**
 ```bash
-git clone <repo-link>
-cd <repo-directory>
+git clone https://github.com/atchudhansg/NeuroGPT-AI-Powered-MRI-Insights-Reporting.git
+cd NeuroGPT-AI-Powered-MRI-Insights-Reporting
 pip install -r requirements.txt
-```
 
+```
 ### 🚀 **Run the System**
 ```bash
-python main.py
+python Final.py
 ```
 **Pipeline Execution:**  
 ✅ **Step 1:** Upload MRI scan via GUI  
