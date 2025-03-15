@@ -84,17 +84,13 @@ This repository presents an **AI-driven system** that combines **Deep Learning**
 
 
 
-
 ## 📄 Generated Report
 
-An example of AI-generated medical report can be accessed at the following link:
+An example of the **AI-generated medical report** can be accessed at the following link:
 
-
-🔗 **[View AI-Generated Report](https://atchudhansg.github.io/AI-Assisted-Multiple-Sclerosis-Lesion-Detection-and-Report-Generation/)**
-
+🔗 **[View AI-Generated Report](https://atchudhansg.github.io/NeuroGPT-AI-Powered-MRI-Insights-Reporting/)**
 
 For hosting purposes, the report file has been renamed to **index.html**.
-
 
 
 🚀 **Advantages of This Approach**:  
